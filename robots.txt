@@ -1,0 +1,3 @@
+Sitemap: https://sitemap.bestclothinggear.com/sitemap.xml
+User-agent: *
+Disallow
